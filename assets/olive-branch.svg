@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M100 190 C 100 140, 100 90, 100 30"></path>
+  
+  <path d="M100 60 C 80 50, 60 55, 50 70 C 70 75, 90 75, 100 70"></path>
+  <path d="M100 90 C 78 82, 56 88, 44 105 C 66 110, 88 108, 100 100"></path>
+  <path d="M100 120 C 80 113, 60 120, 50 138 C 72 143, 92 138, 100 130"></path>
+  <path d="M100 150 C 82 144, 64 150, 56 165 C 76 170, 92 166, 100 160"></path>
+  
+  <path d="M100 75 C 120 65, 140 70, 150 85 C 130 90, 110 90, 100 85"></path>
+  <path d="M100 105 C 122 97, 144 103, 156 120 C 134 125, 112 123, 100 115"></path>
+  <path d="M100 135 C 120 128, 140 135, 150 153 C 128 158, 108 153, 100 145"></path>
+</svg>
